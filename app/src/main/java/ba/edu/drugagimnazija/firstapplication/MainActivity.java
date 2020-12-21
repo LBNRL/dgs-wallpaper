@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                     wpmgr.setResource(R.drawable.back);
                 } catch (IOException e) {
 
+
                 }
             }
         });
